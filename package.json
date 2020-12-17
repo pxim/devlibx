@@ -1,6 +1,6 @@
 {
   "name": "devlibx",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "js开发工具库",
   "main": "index.js",
   "scripts": {
@@ -22,12 +22,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pxim/devkit.git"
+    "url": "git+https://github.com/pxim/devlibx.git"
   },
   "bugs": {
-    "url": "https://github.com/pxim/devkit/issues"
+    "url": "https://github.com/pxim/devlibx/issues"
   },
-  "homepage": "https://github.com/pxim/devkit",
+  "homepage": "https://github.com/pxim/devlibx",
   "devDependencies": {
     "@babel/cli": "^7.10.4",
     "@babel/core": "^7.10.4",
