@@ -29,11 +29,11 @@ import {EventDispatcher} from 'devlibx'
 
 ## 组件 / Component
 
-| 组件              | 说明         | 使用方法                                             | 备注 |
-| ----------------- | ------------ | ---------------------------------------------------- | ---- |
-| `EventDispatcher` | 事件发送类   | [文档](https://github.com/mrdoob/eventdispatcher.js) |      |
-| `pageResponse`    | 自适应缩放库 | [文档](https://github.com/peunzhang/pageResponse)    |      |
-|                   |              |                                                      |      |
+| 组件              | 说明            | 使用方法                                                     | 备注 |
+| ----------------- | --------------- | ------------------------------------------------------------ | ---- |
+| `EventDispatcher` | 事件发送类      | [文档](https://github.com/mrdoob/eventdispatcher.js)         |      |
+| `pageResponse`    | 自适应缩放库    | [文档](https://github.com/peunzhang/pageResponse)            |      |
+| `CNZZ`            | 友盟统计web组件 | [文档](https://developer.umeng.com/docs/67963/cate/67963?acm=lb-zebra-622440-7939396.1003.4.7420515&scm=1003.4.lb-zebra-622440-7939396.OTHER_15819875796941_7420515) [api](https://open.cnzz.com/a/api/apilist/)  用法参考代码里的提示 |      |
 
 ## 工具方法 / Util
 

@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28600b61-c2cb-4ed1-b91c-4fd2c84522e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CNZZ/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reactlibx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -39,11 +41,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="F:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="F:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\px\github\devlibx\src\components" />
       <recent name="G:\px\github\createjsx" />
     </key>
   </component>
@@ -103,44 +106,14 @@
       <workItem from="1608171692218" duration="904000" />
       <workItem from="1608177060497" duration="4903000" />
       <workItem from="1608195969100" duration="196000" />
+      <workItem from="1608536649562" duration="856000" />
+      <workItem from="1608537641443" duration="1074000" />
+      <workItem from="1608539476940" duration="213000" />
+      <workItem from="1608539710933" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="734" y="276" key="FileChooserDialogImpl" timestamp="1608196163469">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="734" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608196163469" />
-    <state width="1899" height="244" key="GridCell.Tab.0.bottom" timestamp="1608196164324">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608196164324" />
-    <state width="1899" height="244" key="GridCell.Tab.0.center" timestamp="1608196164324">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="244" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608196164324" />
-    <state width="1899" height="244" key="GridCell.Tab.0.left" timestamp="1608196164324">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="244" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608196164324" />
-    <state width="1899" height="244" key="GridCell.Tab.0.right" timestamp="1608196164324">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="244" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608196164324" />
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606281632777">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606281632777" />
-    <state x="567" y="220" width="786" height="600" key="find.popup" timestamp="1606284848741">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="567" y="220" width="786" height="600" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606284848741" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1606293384169">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606293384169" />
   </component>
 </project>

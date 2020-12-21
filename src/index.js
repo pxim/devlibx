@@ -8,6 +8,8 @@
 export * from './libs/EventDispatcher';  //https://github.com/mrdoob/eventdispatcher.js
 export * from './libs/pageResponse';     //https://github.com/peunzhang/pageResponse
 
+export * from './components/CNZZ';
+
 export * from './utils/Browser';
 export * from './utils/Device';
 export * from './utils/DOM';

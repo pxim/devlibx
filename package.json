@@ -1,6 +1,6 @@
 {
   "name": "devlibx",
-  "version": "0.0.13",
+  "version": "0.0.19",
   "description": "js开发工具库",
   "main": "index.js",
   "scripts": {
